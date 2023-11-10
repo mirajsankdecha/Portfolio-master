@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import Caresure from "../../Assets/Projects/Caresure.png";
 import Chatroom from "../../Assets/Projects/Chatroom.png";
 import Certificate from "../../Assets/Projects/Certificate.png";
+import Veloceclone from "../../Assets/Projects/Veloce-clone.png";
 
 function Projects() {
   return (
@@ -48,6 +49,16 @@ function Projects() {
               description="Certificate Generator is a user-friendly ReactJS application integrated with Bootstrap, facilitating the seamless creation of customized certificates. Users can upload their certificate templates, add names, and modify font styles, colors, sizes, and text formatting, ultimately downloading the personalized certificates with ease."
               ghLink="https://github.com/mirajsankdecha/Certificate-generator-react"
               demoLink="https://certificate-generator-react-six.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Veloceclone}
+              isBlog={false}
+              title="V8 Wardrobe"
+              description="This project is a Veloce Ecommerce clone developed with the MERN stack, enriched by the seamless transitions and enhanced design aspects brought about by Next.js. Embracing the essence of the original, it mirrors Veloce's layout and functionality. The responsive design ensures a seamless user experience across devices, capturing the allure of oversize t-shirts in an attractive and intuitive manner."
+              ghLink="https://github.com/mirajsankdecha/veloce-clone-ecommerce"
+              // demoLink="https://certificate-generator-react-six.vercel.app/"
             />
           </Col>
         </Row>
