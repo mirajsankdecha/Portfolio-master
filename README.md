@@ -33,7 +33,7 @@ Whenever possible, I also apply my passion for developing products with Node.js 
 
 ## :arrow_right: Live App Demo
 
-**Check out my live portfolio here: [Click Here](https://portfolio-master-sable-seven.vercel.app/)**
+**Check out my live portfolio here: [Click Here](https://github.com/mirajsankdecha/Portfolio-master)**
 
 ## :page_facing_up: Resume
 
